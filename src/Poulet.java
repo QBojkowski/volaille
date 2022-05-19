@@ -30,7 +30,7 @@ public class Poulet extends Volaille {
         return affichage(prixParKilos);
     }
 
-
+//test modif
 
 
     

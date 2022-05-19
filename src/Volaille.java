@@ -27,6 +27,6 @@ public class Volaille {
     public String affichage(float ppk){
         return  " prix ="+ this.calculPrix(ppk) + "]";
     }
-
+//test modif
 }
 
